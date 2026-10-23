@@ -3,8 +3,6 @@
 A safe, one-way backup app for external drives on the Mac. It only **copies** — it never deletes anything from your backup by itself —
 keeps the older version of every file you change, waits while Logic / Pro Tools / DaVinci … are open, and can back up by itself in the background.
 
-**Website:** https://iamthearpan.github.io/SafeMirror-releases/
-
 ## Download
 
 **[Download the latest SafeMirror (.dmg)](https://github.com/iamthearpan/SafeMirror-releases/releases/latest/download/SafeMirror.dmg)**
